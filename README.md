@@ -1,2 +1,2 @@
-# Test
- Aplicações variadas para teste 
+# Calculadora simples para fins de estudo 
+
